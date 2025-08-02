@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/assets/pdf/Rezwan_Hoque_CV__as_of_July_12__2025_.pdf";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
