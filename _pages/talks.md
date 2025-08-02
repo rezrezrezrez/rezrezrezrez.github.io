@@ -9,8 +9,6 @@ nav_order: 4
 ---
 <!-- _pages/talks.md -->
 
-To be filled...
-
 <div class="talks">
 
 {%- for y in page.years %}
