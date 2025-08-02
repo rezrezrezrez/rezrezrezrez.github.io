@@ -3,13 +3,13 @@ layout: page
 permalink: /talks/
 title: talks
 description:
-years: [2022, 2020]
+years: [2025]
 nav: true
 nav_order: 4
 ---
 <!-- _pages/publications.md -->
 
-Selected talks. For an up-to-date list, see my <a href="/assets/pdf/cv.pdf">CV</a>.
+To be filled...
 
 <div class="publications">
 
