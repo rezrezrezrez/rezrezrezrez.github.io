@@ -33,6 +33,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a senior at Brooklyn College, majoring in mathematics with a concentration in theoretical mathematics. My research interests are algebraic geometry, arithmetic geometry, Galois representations, and cryptography. 
 
-You can find my [current CV here](assets/pdf/Rezwan_Hoque_CV__as_of_July_12__2025_.pdf) and [publications here](/publications).
+Here is my [current CV](assets/pdf/change_.pdf), and a list of my [publications](/publications).
 
 I am a member of [mathematics department's](https://www.brooklyn.edu/mathematics/) curriculum committee.
