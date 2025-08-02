@@ -8,7 +8,6 @@ nav: true
 nav_order: 4
 ---
 <!-- _pages/talks.md -->
-
 <div class="talks">
 
 {%- for y in page.years %}
