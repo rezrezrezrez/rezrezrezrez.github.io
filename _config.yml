@@ -147,7 +147,7 @@ collections:
     output: true
   news:
     defaults:
-      layout: post
+    layout: post
     output: true
   projects:
     output: true
