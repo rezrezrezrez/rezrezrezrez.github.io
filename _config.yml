@@ -133,9 +133,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Newsletter
 # -----------------------------------------------------------------------------
 
-newsletter:
-  enabled: false
-  endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
+#newsletter:
+#  enabled: false
+#  endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
 # -----------------------------------------------------------------------------
@@ -145,10 +145,10 @@ newsletter:
 collections:
   books:
     output: true
-  news:
-    defaults:
-    layout: post
-    output: true
+  #news:
+  #  defaults:
+  #  layout: post
+  #  output: true
   projects:
     output: true
 
@@ -191,7 +191,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _news/announcement_*.md
+  #- _news/announcement_*.md
   - _posts/
   - _projects/?_project.md
   - _pages/blog.md
