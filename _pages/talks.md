@@ -7,11 +7,11 @@ years: [2025]
 nav: true
 nav_order: 4
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/talks.md -->
 
 To be filled...
 
-<div class="publications">
+<div class="talks">
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
