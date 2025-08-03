@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-description:
+description: Selected talks. For a full list, see my <a href="/assets/pdf/Rezwan_Hoque_CV.pdf">CV</a>.
 years: [2025, 2024]
 nav: true
 nav_order: 4
