@@ -6,7 +6,7 @@ subtitle: Brooklyn College, City University of New York
 
 profile:
   align: right
-  image: RezwanHoque_2023_102.jpg
+  image:
   image_circular: false # crops the image to make it circular
   more_info:
     <p>rezwan.hoque98@bcmail.cuny.edu</p>
