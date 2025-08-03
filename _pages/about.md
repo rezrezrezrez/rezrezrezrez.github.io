@@ -9,7 +9,7 @@ profile:
   image:
   image_circular: false # crops the image to make it circular
   more_info:
-    <p>rezwan.hoque98@bcmail.cuny.edu</p>
+    # <p>rezwan.hoque98@bcmail.cuny.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -34,3 +34,5 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am an undergraduate senior at Brooklyn College, majoring in mathematics (with a concentration in theoretical mathematics). My interests are algebraic geometry, arithmetic geometry, Galois representations, computational number theory, and cryptography. 
 
 I am a member of the [mathematics department's](https://www.brooklyn.edu/mathematics/) curriculum committee.
+
+<p>rezwan.hoque98@bcmail.cuny.edu</p>
