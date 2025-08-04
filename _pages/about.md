@@ -35,4 +35,4 @@ I am an undergraduate senior at Brooklyn College, majoring in mathematics (with 
 
 I am a member of the [mathematics department's](https://www.brooklyn.edu/mathematics/) curriculum committee.
 
-<p>rezwan.hoque98@bcmail.cuny.edu</p>
+<p style="font-family: monospace;">rezwan.hoque98@bcmail.cuny.edu</p>
