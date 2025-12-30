@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Rezwan_Hoque_CV-1.pdf";
+            window.location.href = "/assets/pdf/Rezwan_Hoque_CV.pdf";
           },
         },{id: "nav-publications",
           title: "publications",
