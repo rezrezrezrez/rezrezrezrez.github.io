@@ -201,9 +201,9 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
-      {% unless entry.hide_bibtex == true or entry.hide_bibtex == "true" %}
+      {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-      {% endunless %}
+      {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
@@ -353,14 +353,14 @@
       </div>
     {% endif %}
 
-    {% unless entry.hide_bibtex == true or entry.hide_bibtex == "true" %}
+    {% if entry.bibtex_show %}
       <!-- Hidden bibtex block -->
       <div class="bibtex hidden">
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
         {% endhighlight %}
       </div>
-    {% endunless %}
+    {% endif %}
 
     {% if entry.video and site.enable_video_embedding %}
       <!-- Hidden video block -->
