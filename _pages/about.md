@@ -33,4 +33,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am an undergraduate senior at [Brooklyn College](https://www.brooklyn.edu/) majoring in mathematics. My interests are in algebraic geometry (particularly arithmetic geometry), computational/algorithmic number theory, and cryptography.
 
-<p style="font-family: monospace;">rezwan.hoque98@bcmail.cuny.edu</p>
+<p style="font-family: monospace;">rezwan.hoque98(at)stu-mail(dot)brooklyn(dot)cuny(dot)edu</p>
