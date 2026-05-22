@@ -31,6 +31,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am an undergraduate senior at [Brooklyn College](https://www.brooklyn.edu/) majoring in mathematics. My interests are in algebraic geometry (particularly arithmetic geometry), computational/algorithmic number theory, and cryptography.
+I am an undergraduate senior at [Brooklyn College](https://www.brooklyn.edu/) majoring in mathematics. My interests are in algebraic geometry (particularly arithmetic geometry), computational/algorithmic number theory, and applications of both to cryptography.
 
 <p style="font-family: monospace;">rezwan.hoque(at)brooklyn(dot)cuny(dot)edu</p>
