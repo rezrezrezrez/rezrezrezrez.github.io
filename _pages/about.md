@@ -33,4 +33,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am an incoming mathematics PhD student at the [University of Georgia](https://www.math.uga.edu/). My interests are in algebraic geometry (particularly arithmetic geometry), computational/algorithmic number theory, and applications of both to cryptography.
 
-<p style="font-family: monospace;">You can still reach me at my Brooklyn College address: rezwan.hoque(at)brooklyn(dot)cuny(dot)edu</p>
+<p style="font-family: monospace;">You can still get into contact with my Brooklyn College address: rezwan.hoque(at)brooklyn(dot)cuny(dot)edu</p>
