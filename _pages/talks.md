@@ -8,7 +8,7 @@ nav: true
 nav_order: 4
 ---
 <!-- _pages/publications.md -->
-Selected talks. For a full list, see my <a href="/assets/pdf/Rezwan_Hoque_CV.pdf">CV</a>.
+Selected talks.
 
 <div class="publications">
 
